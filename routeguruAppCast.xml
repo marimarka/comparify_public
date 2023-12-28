@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>RouteGuru - Appcast</title>
+        <item>
+            <title>Version 1.0</title>
+            <description>RouteGuru release</description>
+            <pubDate>Tue, 4 Apr 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.emmea.routeguru" sparkle:version="1.0" sparkle:os="android" />
+        </item>
+         <item>
+            <title>Version 1.0</title>
+            <description>Visita release</description>
+            <pubDate>Tue, 4 Apr 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/app/routeguru/id16658440" sparkle:version="1.0" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
