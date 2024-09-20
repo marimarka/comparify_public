@@ -6,13 +6,13 @@
             <title>Version 1.0</title>
             <description>Create funny stories.</description>
             <pubDate>Tue, 4 Apr 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.emmea.nonsense" sparkle:version="13.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.emmea.nonsense" sparkle:version="15.0" sparkle:os="android" />
         </item>
          <item>
             <title>Version 1.0</title>
             <description>Create funny stories.</description>
             <pubDate>Tue, 4 Apr 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/app/nonsense/id6476510383" sparkle:version="13.0" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/app/nonsense/id6476510383" sparkle:version="15.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
